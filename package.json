@@ -1,0 +1,15 @@
+{
+  "name": "dev-server-shouldnt-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vite": "^2.0.1"
+  }
+}
